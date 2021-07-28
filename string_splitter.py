@@ -1,5 +1,5 @@
 class TagManipulator():
-    def parse_string(self, tags, regex):
+    def parse_string(self, tags):
         result = []
 
         if len(tags) < 1:
